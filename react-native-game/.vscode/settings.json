@@ -76,10 +76,10 @@
     }
   ],
   "files.exclude": {
-    // ".gitignore": true,
+    ".gitignore": true,
     // "**/ErrorBoundary": true,
     // "config": true,
-    // "node_modules": true,
+    "node_modules": true,
     // "package-lock.json": true,
     // "package.json": true,
     // "public": true,
